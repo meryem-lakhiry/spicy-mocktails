@@ -1,0 +1,37 @@
+.list-inline {
+    list-style: none;
+    background-color: #FFD0D0;
+    padding: 20px;
+    text-align: center;
+    margin: 0px;
+  }
+
+  
+  .list-inline li {
+    display: inline;
+    padding: 100px;
+    font-weight: bold;
+  }
+  
+  .list-inline li a {
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+
+  .list-inline li :hover {
+    color: #3AA6B9;
+    font-size: 13px;
+  }
+
+  .list-inline li #cocktail {
+    background-color: #FF9EAA;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  .list-inline li #logo {
+    font-family: Poppins;
+    font-size: 25px;
+
+  }

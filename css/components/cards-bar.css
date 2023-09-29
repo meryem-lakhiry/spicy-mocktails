@@ -1,0 +1,41 @@
+.cards-bar {
+    display: flex;
+      flex-wrap: wrap;
+  }
+ 
+  .card-bar {
+      flex-basis: 250px;
+      margin: 10px;
+      padding: 10px 18px 30px 18px;
+      background-color: rgb(247, 246, 243);
+      margin: 20px 20px;
+      box-shadow: 0px 10px 30px rgba(0,0,0,0.7);
+      border-radius: 10px;
+      justify-content: space-between;
+      text-align: center;
+    }
+ 
+    .card-bar img {
+      width: 200px;
+      margin-bottom: 30px;
+      border-radius:5%;
+    }
+ 
+    .card-bar h3 {
+      flex-grow: 1;
+      padding-left: 10px;
+      font-size: 20px;
+      text-align: center;
+      margin-bottom: 30px;
+ 
+ 
+    }
+ 
+    .card-bar p {
+        flex-grow: 1;
+        padding-left: 10px;
+        font-size: 0,2px;
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }

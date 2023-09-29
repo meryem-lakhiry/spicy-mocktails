@@ -1,0 +1,47 @@
+.btn-blue {
+    background-color: #FF9EAA;
+    padding: 15px 20px;
+    color: white;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.btn-blue:hover {
+    background-color: #3AA6B9;
+    color:white;
+}
+
+.btn-pink {
+    background-color:  #F9F7F3;
+    padding: 15px 20px;
+    color: #FF9EAA;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: larger;
+    margin-left: 575px;
+}
+
+.btn-pink:hover {
+    background-color: #F9F7F3;
+    color: #3AA6B9;
+    }
+
+.btn-subscribe {
+    background-color:  #FFD0D0;
+    padding: 15px 20px;
+    color: rgb(47, 47, 88);
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+#btn-submit {
+    background-color:  #FFD0D0;
+    padding: 10px 15px;
+    color: rgb(47, 47, 88);
+    border-radius: 5px;
+    text-transform: uppercase;
+    align-content: space-between
+    ;
+    
+}
